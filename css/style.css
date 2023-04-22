@@ -182,8 +182,8 @@ p {
 /* person */
 
 .person {
-  height: 400px;
-  background: url(../images/phenix.png) center center/cover;
+  height: 500px;
+  background: url(../images/phenix.avif) center center/cover;
 }
 
 /* reservation */
